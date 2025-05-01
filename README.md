@@ -12,16 +12,16 @@ Bu çalışmanın temel amacı:
 - 🤝 Takım halinde düzenli çalışmayı teşvik etmek  
 - 🌍 GitHub üzerinden açık kaynak kültürünü benimsemek  
 - 🏆 **Algeoluge gibi ulusal ve uluslararası algoritma yarışmalarına sistemli bir şekilde hazırlanmak**
----
 
-Docs dosyası içindeki kaynak,  veri yapıları ile ilgili güzel bir kaynak olup dizilerden sonraki konular ve algoritma analizi için buradaki kaynaktan yararlanılacaktır
 
+## Up to date 
+- Docs dosyası içindeki kaynak,  
+veri yapıları ile ilgili güzel bir kaynak olup dizilerden sonraki konular ve algoritma analizi için buradaki kaynaktan yararlanılacaktır.
 Dizilerden sonra bağlı listelere geçilecektir.
 
 
 
---
-Ek kaynakçalar : 
+#### Ek kaynakçalar : 
 
 - https://algoleague.com/contest/algorithms-starter-roadmap-set/description
 
