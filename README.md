@@ -15,8 +15,8 @@ Bu çalışmanın temel amacı:
 
 
 ## Up to date 
-- Docs dosyası içindeki kaynak,  
-veri yapıları ile ilgili güzel bir kaynak olup dizilerden sonraki konular ve algoritma analizi için buradaki kaynaktan yararlanılacaktır.
+- Docs dosyası içindeki veriYapıları adlı kaynak;
+veri yapıları ile ilgili güzel bir kaynak olup dizilerden sonraki konular ve algoritma analizi için yararlanılacaktır.
 Dizilerden sonra bağlı listelere geçilecektir.
 
 
