@@ -14,7 +14,8 @@ Bu çalışmanın temel amacı:
 - 🏆 **Algeoluge gibi ulusal ve uluslararası algoritma yarışmalarına sistemli bir şekilde hazırlanmak**
 
 
-## Up to date 
+## Up to date
+- Dizilerin konu anlatımı için, Docs dosyası içerisindeki 15-Arrays.pdf dosyasından yararlanabilirsiniz.
 - Docs dosyası içindeki veriYapıları adlı kaynak;
 veri yapıları ile ilgili güzel bir kaynak olup dizilerden sonraki konular ve algoritma analizi için yararlanılacaktır.
 Dizilerden sonra bağlı listelere geçilecektir.
