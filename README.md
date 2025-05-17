@@ -4,7 +4,6 @@ Bu depo, OSTİM Teknik Üniversitesi bünyesinde Furkan Aydın hocamızın önde
 Her hafta belirlenen algoritma sorularının çözümü, takım üyeleri tarafından burada paylaşılacaktır.
 
 ## 🎯 Amaç
-
 Bu çalışmanın temel amacı:
 
 - 🧠 Algoritma ve problem çözme becerilerini geliştirmek  
@@ -13,6 +12,7 @@ Bu çalışmanın temel amacı:
 - 🌍 GitHub üzerinden açık kaynak kültürünü benimsemek  
 - 🏆 **Algeoluge gibi ulusal ve uluslararası algoritma yarışmalarına sistemli bir şekilde hazırlanmak**
 
+/Users/basmabakirci/Downloads/photo_2025-05-17 11.52.32.jpeg
 
 ## Up to date
 - Dizilerin konu anlatımı için, Docs dosyası içerisindeki 15-Arrays.pdf dosyasından yararlanabilirsiniz.
