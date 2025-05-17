@@ -12,7 +12,7 @@ Bu çalışmanın temel amacı:
 - 🌍 GitHub üzerinden açık kaynak kültürünü benimsemek  
 - 🏆 **Algeoluge gibi ulusal ve uluslararası algoritma yarışmalarına sistemli bir şekilde hazırlanmak**
 
-/Users/basmabakirci/Downloads/photo_2025-05-17 11.52.32.jpeg
+![yol haritamız:](https://github.com/user-attachments/assets/e10c7f87-76fd-413b-a43a-220aa6ca1ac9)
 
 ## Up to date
 - Dizilerin konu anlatımı için, Docs dosyası içerisindeki 15-Arrays.pdf dosyasından yararlanabilirsiniz.
